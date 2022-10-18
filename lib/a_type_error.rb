@@ -1,3 +1,6 @@
-1 + 1
+puts 1 + 1
 
-1 + "is the loneliest number"
+my_string = "is the loneliest number"
+
+print "1 " + my_string
+
